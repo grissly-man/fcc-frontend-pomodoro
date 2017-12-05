@@ -1,0 +1,11 @@
+@-webkit-keyframes time-dial {
+   from { left: 150px; }
+}
+
+@-moz-keyframes time-dial {
+   from { left: 150px; }
+}
+
+@keyframes time-dial {
+   from { left: 150px; }
+}
