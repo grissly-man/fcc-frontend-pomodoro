@@ -13,7 +13,7 @@ module.exports = {
         javascript: "./app.jsx"
     },
     output: {
-        path: __dirname + '/doc',
+        path: __dirname + '/docs',
         filename: 'bundle.js'
     },
     resolve: {
